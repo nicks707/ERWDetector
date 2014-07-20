@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">&quot;ERW Detector&quot;</string>
+    <string name="action_settings">Sync</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Users</string>
+    <string name="plus">"+"</string>
+    <string name="adduser">&quot;Add New&quot;</string>
+    <string name="user">&quot;Site Name&quot;</string>
+    <string name="hint">&quot;Enter Site Name&quot;</string>
+    <string name="save">"Save"</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="adduseractivitylabel">"Add User Activity"</string>
+
+</resources>
